@@ -6,9 +6,9 @@ class AWSHelper {
 	
     	def a =1
         def b =2
-        def d = 10
+        def d = 14
 
-        def c = a + b + 10
+        def c = a + b + d
 
         return "Hello World " + c
     }
