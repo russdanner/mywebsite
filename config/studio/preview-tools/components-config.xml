@@ -28,6 +28,12 @@
             <type>/component/feature</type>
             <path>/site/components/features</path>
         </component>
+        <component>
+            <label>Ticket</label>
+            <type>/component/ticker</type>
+            <path>/site/components</path>
+        </component>
+        
     </category>
     <browse>
         <label>Features</label>
