@@ -1,13 +1,9 @@
-import org.craftercms.aws.AWSHelper
 
-logger.info("Calling helper method a b c d")
+def BTCResponseTxt = new URL("https://spotusd-data.btcc.com/data/pro/ticker?symbol=BTCUSD").text
 
-return amethod() + " RUSS :"+ AWSHelper.doStuff()
+def slurper = new groovy.json.JsonSlurper()
+
+def result = slurper.parseText(BTCResponseTxt)
 
 
-
-  public static String amethod() {
-      def a = 1
-      def b = 2
-      return "HELLO  : " + a + b
-  }
+return result
