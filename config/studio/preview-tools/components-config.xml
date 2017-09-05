@@ -30,7 +30,7 @@
         </component>
         <component>
             <label>Ticket</label>
-            <type>/component/ticker</type>
+            <type>/component/ticekt</type>
             <path>/site/components</path>
         </component>
         
