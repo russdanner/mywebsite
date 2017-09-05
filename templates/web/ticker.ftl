@@ -1,1 +1,1 @@
-<h1>PRICE</h1>
+<h1>${ticker.AskPrice}</h1>
