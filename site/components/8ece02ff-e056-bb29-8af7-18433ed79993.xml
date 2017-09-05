@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/ticekt</content-type>	<display-template>/templates/web/ticker.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8ece</objectGroupId>
+	<objectId>8ece02ff-e056-bb29-8af7-18433ed79993</objectId>
+	<file-name>8ece02ff-e056-bb29-8af7-18433ed79993.xml</file-name>
+	<internal-name>x</internal-name>
+	<symbol>BTC</symbol>
+	<createdDate>9/5/2017 22:26:30</createdDate>
+	<createdDate_dt>9/5/2017 22:26:30</createdDate_dt>
+	<lastModifiedDate>9/5/2017 22:26:30</lastModifiedDate>
+	<lastModifiedDate_dt>9/5/2017 22:26:30</lastModifiedDate_dt>
+</component>
