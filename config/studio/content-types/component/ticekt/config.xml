@@ -1,5 +1,5 @@
 <content-type name="/component/ticekt" is-wcm-type="true">
-	<label>Ticekt</label>
+	<label>Ticker</label>
 	<form>/component/ticekt</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
