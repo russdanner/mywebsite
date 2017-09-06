@@ -5,11 +5,12 @@
             <cronExpression>0 0/1 * * * ?</cronExpression>
         </jobFolder>
     </jobs>
+
     <filters>
         <filter>
             <script>/scripts/filters/MyFilter.groovy</script>
             <mapping>
-                <include>/**</include>
+                <include>/statics-assets/p/*</include>
             </mapping>
         </filter>
     </filters>
