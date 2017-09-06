@@ -26,7 +26,7 @@
     
       for (var y = 0.5; y < 375; y += 10) {
         context.moveTo(0, y);
-        context.lineTo(500, y);
+        context.lineTo(100, y);
       }
     
       context.strokeStyle = "#eee";
