@@ -49,12 +49,12 @@
         context.beginPath();
         
         context.moveTo(60, 375 / 2);
-        var xContext = o.data[0].price
 
+		var xContext = o.data[0].price;
         
         for(var i = 0; i < o.data.length; i++) {
           var yVal = i+1*10;
-          var xVal = (o.data[i].price - xContext)/100;
+          var xVal = (o.data[i].price - xContext)/10;
           
           context.lineTo(yVal, xVal);
         }
