@@ -9,7 +9,7 @@ def points = []
 
 result.bpi.each { prop, val ->
 	def floatVal = Float.parseFloat(val)
-    points.add([date: prop, value: ])
+    points.add([date: prop, value: floatVal ])
 }
 
 templateModel.dataPoints = points
