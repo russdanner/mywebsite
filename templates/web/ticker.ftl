@@ -3,7 +3,7 @@
 <div <@studio.componentAttr path=contentModel.storeUrl ice=true /> >
 	<h2>${contentModel.symbol}</h2>
 	<h1>${ticker.AskPrice}</h1>
-    <div id="c"></div>
+    <canvas id="c" width="500" height="375"></canvas>
 
 <script>
 if (document.getElementById('c')) {
