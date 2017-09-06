@@ -49,7 +49,7 @@
 												<label for="entertainment">Blockchain</label>
 											</div>
 											<div class="3u 6u$(medium) 12u$(small)">
-												<input type="checkbox" id="inesting" name="inesting" value="inesting">
+												<input type="checkbox" id="investing" name="investing" value="investing">
 												<label for="technology">Investing</label>
 											</div>
 										</div>
