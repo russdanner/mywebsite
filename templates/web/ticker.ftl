@@ -21,10 +21,10 @@
       // grid
       for (var x = 0.5; x < 500; x += 10) {
         context.moveTo(x, 0);
-        context.lineTo(x, 275);
+        context.lineTo(x, 175);
       }
     
-      for (var y = 0.5; y < 275; y += 10) {
+      for (var y = 0.5; y < 175; y += 10) {
         context.moveTo(0, y);
         context.lineTo(500, y);
       }
