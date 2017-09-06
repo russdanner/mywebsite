@@ -38,7 +38,7 @@ blockquote.twitter-tweet {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
   margin: 10px 5px;
   padding: 0 16px 16px 16px;
-  max-width: 95%;
+  max-width: 90%;
 }
 
 blockquote.twitter-tweet p {
