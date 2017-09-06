@@ -47,12 +47,14 @@
     
       var lineGraph = function(o) {
         context.beginPath();
-        context.moveTo(60, 375 / 2);
         
+        context.moveTo(60, 375 / 2);
+        var xContext = o.data[0].price
+
         
         for(var i = 0; i < o.data.length; i++) {
           var yVal = i+1*10;
-          var xVal = o.data[i].price/500;
+          var xVal = o.data[i].price - xContext;
           context.lineTo(yVal, xVal);
         }
         
