@@ -40,7 +40,7 @@
       context.moveTo(60, 0);
       context.lineTo(60, 27);
       context.moveTo(60, 47);
-      context.lineTo(60, 375);
+      context.lineTo(60, 175);
     
       context.strokeStyle = "#000";
       context.stroke();
