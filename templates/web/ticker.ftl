@@ -5,14 +5,15 @@
 	<h1>${ticker.AskPrice}</h1>
     <canvas id="c" width="500" height="375"></canvas>
 
-[
-<#list dataPoints as point>
-	${point.date} -> ${point.value} <br/>
-</#list>
-]
 
 
 <script>
+var priceData = []
+
+<#list dataPoints as point>
+	priceData.add({date: "${point.date}", price:${point.value}})
+</#list>
+
 if (document.getElementById('c')) {
 
   // context
