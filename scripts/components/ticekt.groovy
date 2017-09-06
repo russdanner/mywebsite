@@ -8,7 +8,8 @@ def result = slurper.parseText(responseTxt)
 def points = []
 
 result.bpi.each { prop, val ->
-    points.add([date: prop, value: Float.parseFloat(val)])
+	def floatVal = Float.parseFloat(val)
+    points.add([date: prop, value: ])
 }
 
 templateModel.dataPoints = points
