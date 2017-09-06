@@ -46,13 +46,6 @@ if (document.getElementById('c')) {
   context.strokeStyle = "#000";
   context.stroke();
 
-
-  // text
-  //context.font = "bold 12px sans-serif";
-  //context.fillText("plays", 248, 42);
-  //context.fillText("winnings", 28, 42);
-
-
   // graphing functons
   var rouletteRed = (function() {
     var winnings = 0;
@@ -61,14 +54,6 @@ if (document.getElementById('c')) {
       return winnings;
     };
   })();
-
-//  var roulette17 = (function() {
-//    var winnings = 0;
-//    return function() {
-//      winnings += Math.random() < 1/36 ? 35 : -1;
-//      return winnings;
-//   };
-//  })();
 
   var lineGraph = function(o) {
     context.beginPath();
@@ -86,8 +71,6 @@ if (document.getElementById('c')) {
     'data': priceData,
     'color': '#e00'
   });
-
-
 }
 </script>
 
