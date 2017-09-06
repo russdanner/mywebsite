@@ -21,6 +21,10 @@
 
 </div>
 <style>
+blockquote.twitter-tweet img {
+	width:330px;
+}
+
 blockquote.twitter-tweet {
   display: inline-block;
   font-family: "Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;
@@ -49,6 +53,7 @@ blockquote.twitter-tweet a {
   text-decoration: none;
   outline: 0 none;
 }
+
 
 blockquote.twitter-tweet a:hover,
 blockquote.twitter-tweet a:focus {
