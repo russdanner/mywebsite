@@ -28,6 +28,9 @@
 	<key>/site/components/features/quam-lorem-ipsum.xml</key>
 	<include>/site/components/features/quam-lorem-ipsum.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<value>/site/components/page/c23f9d81-acdc-1012-bae2-e372c9298c84.xml</value>
+	<key>/site/components/page/c23f9d81-acdc-1012-bae2-e372c9298c84.xml</key>
+	<include>/site/components/page/c23f9d81-acdc-1012-bae2-e372c9298c84.xml</include>
 	</item></features>
 	<header/>
 	<hero_image>/static-assets/images/page/8d7f21fa-5e09-00aa-8340-853b7db302da//3coins.jpg</hero_image>
