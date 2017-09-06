@@ -7,7 +7,11 @@
 	<file-name>4beca2f0-bc3e-4e14-360b-6aae21369362.xml</file-name>
 	<sectionID>content</sectionID>
 	<zone1/>
-	<zone2/>
+	<zone2>	<item>	<value>Two</value>
+	<key>/site/components/features/quam-lorem-ipsum.xml</key>
+	<include>/site/components/features/quam-lorem-ipsum.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></zone2>
 	<createdDate>9/6/2017 14:12:42</createdDate>
 	<createdDate_dt>9/6/2017 14:12:42</createdDate_dt>
 	<lastModifiedDate>9/6/2017 14:12:42</lastModifiedDate>
