@@ -20,13 +20,13 @@
 	<key>/site/components/8ece02ff-e056-bb29-8af7-18433ed79993.xml</key>
 	<include>/site/components/8ece02ff-e056-bb29-8af7-18433ed79993.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item>	<item>	<value>Two</value>
-	<key>/site/components/features/quam-lorem-ipsum.xml</key>
-	<include>/site/components/features/quam-lorem-ipsum.xml</include>
-	<disableFlattening>false</disableFlattening>
 	</item>	<item>	<key>/site/components/features/sapien-veroeros.xml</key>
 	<value>Three</value>
 	<include>/site/components/features/sapien-veroeros.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<value>Two</value>
+	<key>/site/components/features/quam-lorem-ipsum.xml</key>
+	<include>/site/components/features/quam-lorem-ipsum.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></features>
 	<header/>
