@@ -17,8 +17,8 @@
 	<header/>
 	<file-name>index.xml</file-name>
 	<folder-name>new-acme-phone-released-today</folder-name>
-	<categories>	<item>	<key>technology</key>
-	<value_smv>Technology</value_smv>
+	<categories>	<item>	<key>ethereum</key>
+	<value_smv>Ethereum</value_smv>
 	</item></categories>
 	<segments>	<item>	<key>guy</key>
 	<value_smv>Guy</value_smv>
@@ -28,9 +28,11 @@
 	<date_dt>07/03/2016 04:00:00</date_dt>
 	<createdDate>3/3/2017 20:48:50</createdDate>
 	<createdDate_dt>3/3/2017 20:48:50</createdDate_dt>
-	<lastModifiedDate>3/15/2017 0:8:13</lastModifiedDate>
-	<lastModifiedDate_dt>3/15/2017 0:8:13</lastModifiedDate_dt>
+	<lastModifiedDate>9/6/2017 4:2:5</lastModifiedDate>
+	<lastModifiedDate_dt>9/6/2017 4:2:5</lastModifiedDate_dt>
 	<featured_b>false</featured_b>
 	<summary>Fusce a augue pulvinar, pellentesque magna ac, feugiat diam. Vestibulum ultricies ornare elit sed congue. Quisque vitae urna lacinia, mollis lorem a, iaculis libero. Praesent dolor libero, ullamcorper sed pharetra placerat, pretium in arcu. </summary>
 	<image>/static-assets/images/smartphone-pic.jpg</image>
+	<disabled>false</disabled>
+	<left-rail/>
 </page>
