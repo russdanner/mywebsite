@@ -59,7 +59,7 @@
           var yVal = 100+(i*10);
           var xVal = ((o.data[i].price-xContext)/10);
           
-          context.lineTo(yVal, xVal);
+          context.lineTo(yVal, xVal-10);
         }
         
         context.strokeStyle = o.color;
