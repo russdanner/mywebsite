@@ -56,7 +56,7 @@
 		context.moveTo(60, 0);
           
         for(var i = 0; i < o.data.length; i++) {
-          var xVal = i;
+          var xVal = i*10;
           var yVal = ((o.data[i].price-yContext)/10);
           
           context.lineTo(xVal, yVal-100);
