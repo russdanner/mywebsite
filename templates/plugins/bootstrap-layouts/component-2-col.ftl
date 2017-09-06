@@ -1,6 +1,6 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 
-    <div class="container clearfix row" <@studio.componentAttr path=contentModel.storeUrl ice=false />>
+    <div class="container clearfix row" <@studio.componentAttr path=contentModel.storeUrl ice=true />>
 
       <div class="col_half col-md-4" <@studio.componentContainerAttr target="zone1" objectId=contentModel.objectId />>
         <#if contentModel.zone1?? &&  contentModel.zone1.item?? >
