@@ -6,3 +6,8 @@
     ${contentModel.body_html}
   </div>
 </article>
+<style>
+.features article {
+ width:80%
+}
+</style>
