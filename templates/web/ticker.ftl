@@ -51,7 +51,7 @@ if (document.getElementById('c')) {
   var rouletteRed = (function() {
     var winnings = 0;
     return function() {
-      winnings += ${dataPoints}
+      winnings += ${dataPoints[0][1]}
       return winnings;
     };
   })();
