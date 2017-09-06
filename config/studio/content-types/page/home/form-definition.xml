@@ -424,7 +424,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value>existingImages,uploadImages</value>
+							<value>existingImages,uploadImages,approvedAssets</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
