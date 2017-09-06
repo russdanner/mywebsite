@@ -101,6 +101,7 @@
         .col_half.col-md-4.ui-sortable {
     min-width: 400px;
     min-height: 100px;
+    max-width: 50%;
 }
         </style>
         
