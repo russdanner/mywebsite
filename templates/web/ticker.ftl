@@ -18,7 +18,7 @@
       var c_canvas = document.getElementById("c");
       var context = c_canvas.getContext("2d");
     
-    // grid
+      // grid
       for (var x = 0.5; x < 500; x += 10) {
         context.moveTo(x, 0);
         context.lineTo(x, 375);
@@ -51,7 +51,7 @@
         
         
         for(var i = 0; i < o.data.length; i++) {
-          context.lineTo(i*10, o.data[i].price);
+          context.lineTo(i*10, o.data[i].price/2);
         }
         context.strokeStyle = o.color;
         context.stroke();
