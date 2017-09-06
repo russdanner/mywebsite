@@ -19,10 +19,6 @@
 	<features>	<item>	<value>/site/components/page/4beca2f0-bc3e-4e14-360b-6aae21369362.xml</value>
 	<key>/site/components/page/4beca2f0-bc3e-4e14-360b-6aae21369362.xml</key>
 	<include>/site/components/page/4beca2f0-bc3e-4e14-360b-6aae21369362.xml</include>
-	</item>	<item>	<value>Two</value>
-	<key>/site/components/features/quam-lorem-ipsum.xml</key>
-	<include>/site/components/features/quam-lorem-ipsum.xml</include>
-	<disableFlattening>false</disableFlattening>
 	</item></features>
 	<header/>
 	<hero_image>/static-assets/images/page/8d7f21fa-5e09-00aa-8340-853b7db302da//3coins.jpg</hero_image>
