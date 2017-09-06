@@ -51,8 +51,11 @@
         
         
         for(var i = 0; i < o.data.length; i++) {
-          context.lineTo(i*10, o.data[i].price/500);
+          var yVal = i+1*10;
+          var xVal = o.data[i].price/500;
+          context.lineTo(yVal, xVal);
         }
+        
         context.strokeStyle = o.color;
         context.stroke();
       };
