@@ -50,7 +50,7 @@
         context.moveTo(60, 375 / 2);
         
         
-        for(var i = 61; i < 500; i += 1) {
+        for(var i = 0; i < 500; i += 1) {
           context.lineTo(i, o.data[i].price + 375 / 2);
         }
         context.strokeStyle = o.color;
