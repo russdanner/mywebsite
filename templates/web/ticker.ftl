@@ -51,7 +51,7 @@
         
         
         for(var i = 0; i < o.data.length; i++) {
-          context.lineTo(i, o.data[i].price);
+          context.lineTo(i+100, o.data[i].price);
         }
         context.strokeStyle = o.color;
         context.stroke();
