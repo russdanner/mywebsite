@@ -28,12 +28,6 @@
             <type>/component/feature</type>
             <path>/site/components/features</path>
         </component>
-        <component>
-            <label>Ticket</label>
-            <type>/component/ticekt</type>
-            <path>/site/components</path>
-        </component>
-        
 <component>
 <label>Site Header</label>
 <type>/plugins/theme-canvas/component-header</type>
