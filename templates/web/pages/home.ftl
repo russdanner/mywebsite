@@ -98,7 +98,7 @@
 		<@studio.toolSupport/>
         
         <style>
-        .col_half.col-md-4.ui-sortable {
+        .col_half.col-md-4 {
     min-width: 400px;
     min-height: 100px;
     max-width: 50%;
