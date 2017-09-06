@@ -51,7 +51,7 @@ if (document.getElementById('c')) {
   var rouletteRed = (function() {
     var winnings = 0;
     return function() {
-      winnings += Math.random() < 17/36 ? 1 : -1;
+      winnings += ${ticker}
       return winnings;
     };
   })();
