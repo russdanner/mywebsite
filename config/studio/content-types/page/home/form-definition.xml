@@ -637,5 +637,33 @@
 						</property>
 					</properties>
 				</datasource>
+				<datasource>
+					<type>img-cmis-repo</type>
+					<id>approvedAssets</id>
+					<title>Approved Assets</title>
+					<interface>image</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value>/Sites/digital-assets/documentlibrary/approved</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>repoId</name>
+							<value>alfresco</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>studioPath</name>
+							<value>/static-assets</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>allowedOperations</name>
+							<value>[{&quot;value&quot;:&quot;value_both&quot;,&quot;label&quot;:&quot;Clone and Link&quot;,&quot;selected&quot;:true},{&quot;value&quot;:&quot;value_clone&quot;,&quot;label&quot;:&quot;Clone&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_link&quot;,&quot;label&quot;:&quot;Link&quot;,&quot;selected&quot;:false}]</value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
 	</datasources>
 </form>
