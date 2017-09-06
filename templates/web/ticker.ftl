@@ -1,8 +1,6 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 
 <div <@studio.componentAttr path=contentModel.storeUrl ice=true /> >
-	<h2>${contentModel.symbol}</h2>
-	<h1>${ticker.AskPrice}</h1>
     <canvas id="c" width="500" height="375"></canvas>
 
 
@@ -75,15 +73,17 @@ if (document.getElementById('c')) {
   var lineGraph = function(o) {
     context.beginPath();
     context.moveTo(60, 375 / 2);
+    
+    
     for(var i = 61; i < 500; i += 1) {
-      context.lineTo(i, -o.stepFunction() + 375 / 2);
+      context.lineTo(i, o.data[i].price + 375 / 2);
     }
     context.strokeStyle = o.color;
     context.stroke();
   };
 
   lineGraph({
-    'stepFunction': rouletteRed,
+    'data': priceData,
     'color': '#e00'
   });
 
