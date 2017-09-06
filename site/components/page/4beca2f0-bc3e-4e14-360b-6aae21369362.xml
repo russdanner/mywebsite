@@ -11,11 +11,7 @@
 	<include>/site/components/8ece02ff-e056-bb29-8af7-18433ed79993.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></zone1>
-	<zone2>	<item>	<value>Two</value>
-	<key>/site/components/features/quam-lorem-ipsum.xml</key>
-	<include>/site/components/features/quam-lorem-ipsum.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item></zone2>
+	<zone2/>
 	<createdDate>9/6/2017 14:12:42</createdDate>
 	<createdDate_dt>9/6/2017 14:12:42</createdDate_dt>
 	<lastModifiedDate>9/6/2017 14:12:42</lastModifiedDate>
