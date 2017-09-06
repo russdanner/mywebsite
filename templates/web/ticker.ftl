@@ -52,7 +52,7 @@
   		  context.fillText("Day", 248, 42);
          context.fillText("Price", 28, 42);
   
-        context.moveTo(60, 375 / 2);
+        //context.moveTo(60, 375 / 2);
         
 
 		var xContext = o.data[0].price;
