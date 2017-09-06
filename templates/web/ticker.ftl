@@ -48,7 +48,12 @@
       var lineGraph = function(o) {
         context.beginPath();
         
+          context.font = "bold 12px sans-serif";
+  		  context.fillText("plays", 248, 42);
+         context.fillText("winnings", 28, 42);
+  
         context.moveTo(60, 375 / 2);
+        
 
 		var xContext = o.data[0].price;
         
