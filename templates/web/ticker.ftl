@@ -53,10 +53,10 @@
          context.fillText("Price", 28, 42);
   
 		var xContext = o.data[0].price;
-		context.moveTo(60, xContext/10);
+		context.moveTo(60, 0);
           
         for(var i = 0; i < o.data.length; i++) {
-          var yVal = 100+(i*10);
+          var yVal = 100+(i-xContext*10);
           var xVal = (o.data[i].price)/10;
           
           context.lineTo(yVal, xVal);
