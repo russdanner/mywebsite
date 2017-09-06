@@ -34,7 +34,7 @@
     
       // axis
       context.beginPath();
-      context.moveTo(0, 175);
+      context.moveTo(60, 175);
       context.lineTo(500, 175);
     
       context.moveTo(60, 0);
