@@ -331,7 +331,7 @@
 					<properties>
 						<property>
 							<name>width</name>
-							<value>450</value>
+							<value>650</value>
 							<type>int</type>
 						</property>
 						<property>
