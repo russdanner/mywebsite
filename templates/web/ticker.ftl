@@ -57,7 +57,7 @@
           
         for(var i = 0; i < o.data.length; i++) {
           var yVal = 100+(i*10);
-          var xVal = ((o.data[i].price-xContext)/10)-175;
+          var xVal = ((o.data[i].price-xContext)/10);
           
           context.lineTo(yVal, xVal);
         }
