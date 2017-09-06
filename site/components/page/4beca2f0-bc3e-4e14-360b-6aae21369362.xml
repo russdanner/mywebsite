@@ -6,7 +6,11 @@
 	<objectId>4beca2f0-bc3e-4e14-360b-6aae21369362</objectId>
 	<file-name>4beca2f0-bc3e-4e14-360b-6aae21369362.xml</file-name>
 	<sectionID>content</sectionID>
-	<zone1>	<item>	<value>/site/components/page/c23f9d81-acdc-1012-bae2-e372c9298c84.xml</value>
+	<zone1>	<item>	<value>Two</value>
+	<key>/site/components/features/quam-lorem-ipsum.xml</key>
+	<include>/site/components/features/quam-lorem-ipsum.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<value>/site/components/page/c23f9d81-acdc-1012-bae2-e372c9298c84.xml</value>
 	<key>/site/components/page/c23f9d81-acdc-1012-bae2-e372c9298c84.xml</key>
 	<include>/site/components/page/c23f9d81-acdc-1012-bae2-e372c9298c84.xml</include>
 	</item></zone1>
