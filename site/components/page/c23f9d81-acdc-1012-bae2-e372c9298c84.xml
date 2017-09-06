@@ -3,7 +3,7 @@
 	<content-type>/plugins/twitterfeed/twitterfeed</content-type>	<display-template>/templates/plugins/twitterfeed/twitterfeed.ftl</display-template>
 	<objectGroupId>c23f</objectGroupId>
 	<objectId>c23f9d81-acdc-1012-bae2-e372c9298c84</objectId>
-	<feedId>hondaracing</feedId>
+	<feedId>bitcoinmagazine</feedId>
 	<itemsPerPage_i>2</itemsPerPage_i>
 	<authentication>	<item>	<key>/site/components/keys/twitter/ddb0bb89-ca41-7e4a-6254-3f14aa5d50f7.xml</key>
 	<value>Twiiter</value>
@@ -13,6 +13,6 @@
 	<file-name>c23f9d81-acdc-1012-bae2-e372c9298c84.xml</file-name>
 	<createdDate>9/6/2017 4:31:0</createdDate>
 	<createdDate_dt>9/6/2017 4:31:0</createdDate_dt>
-	<lastModifiedDate>9/6/2017 18:38:38</lastModifiedDate>
-	<lastModifiedDate_dt>9/6/2017 18:38:38</lastModifiedDate_dt>
+	<lastModifiedDate>9/6/2017 18:38:54</lastModifiedDate>
+	<lastModifiedDate_dt>9/6/2017 18:38:54</lastModifiedDate_dt>
 </component>
