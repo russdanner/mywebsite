@@ -101,7 +101,7 @@
         .col_half.col-md-4 {
     min-width: 400px;
     min-height: 100px;
-    max-width: 50%;
+    max-width: 45%;
 }
         </style>
         
