@@ -5,5 +5,9 @@ def slurper = new groovy.json.JsonSlurper()
 
 def result = slurper.parseText(responseTxt)
 
-templateModel.data = responseTxt
-templateModel.dataPoints = result.bpi
+def points = []
+result.properties.each { prop, val ->
+    points.add([date: prop, value: val])
+}
+
+templateModel.dataPoints = points
