@@ -7,7 +7,7 @@
 
 [
 <#list dataPoints as point>
-	{point.date} -> ${point.value} <br/>
+	${point.date} -> ${point.value} <br/>
 </#list>
 ]
 
