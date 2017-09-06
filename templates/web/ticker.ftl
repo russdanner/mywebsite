@@ -79,10 +79,6 @@ if (document.getElementById('c')) {
     'color': '#e00'
   });
 
-  lineGraph({
-    'stepFunction': roulette17,
-    'color': '#00e'
-  });
 
 }
 </script>
