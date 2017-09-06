@@ -7,7 +7,7 @@ def result = slurper.parseText(responseTxt)
 
 def points = []
 
-result.each { prop, val ->
+result.bpi.each { prop, val ->
     points.add([date: prop, value: val])
 }
 
