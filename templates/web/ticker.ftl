@@ -46,15 +46,6 @@ if (document.getElementById('c')) {
   context.strokeStyle = "#000";
   context.stroke();
 
-  // graphing functons
-  var rouletteRed = (function() {
-    var winnings = 0;
-    return function() {
-      winnings += ${dataPoints[0][1]}
-      return winnings;
-    };
-  })();
-
   var lineGraph = function(o) {
     context.beginPath();
     context.moveTo(60, 375 / 2);
