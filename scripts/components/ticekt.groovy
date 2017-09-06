@@ -5,5 +5,4 @@ def slurper = new groovy.json.JsonSlurper()
 
 def result = slurper.parseText(BTCResponseTxt)
 
-
-templateModel.ticker = result.bpi
+templateModel.dataPoints = result.bpi
