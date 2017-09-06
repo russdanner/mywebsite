@@ -96,5 +96,13 @@
 			<script src="/static-assets/js/main.js"></script>
 
 		<@studio.toolSupport/>
+        
+        <style>
+        .col_half.col-md-4.ui-sortable {
+    min-width: 400px;
+    min-height: 100px;
+}
+        </style>
+        
 	</body>
 </html>
