@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/plugins/twitterfeed/twitter-authentication</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ddb0</objectGroupId>
+	<objectId>ddb0bb89-ca41-7e4a-6254-3f14aa5d50f7</objectId>
+	<file-name>ddb0bb89-ca41-7e4a-6254-3f14aa5d50f7.xml</file-name>
+	<internal-name>Twiiter</internal-name>
+	<consumerKey>S1pmHMCbPv9eXz7x6KLnJk0Mg</consumerKey>
+	<consumerSecret>Km6Ub9AEqIwnGJTRCUVQGFvvx82hesaKNo1wncsfpa0NLZbhB9</consumerSecret>
+	<accessKey>27591924-4Xd6JpZJoRK4JJW8QRFaqfd4V9BLDSBtWw8i33Jm1</accessKey>
+	<accessSecret>VyORebt4wsBtOZBs62fJiFYyskbqz6PPZxpNFHNJT8jf4</accessSecret>
+	<createdDate>9/6/2017 4:31:11</createdDate>
+	<createdDate_dt>9/6/2017 4:31:11</createdDate_dt>
+	<lastModifiedDate>9/6/2017 4:31:11</lastModifiedDate>
+	<lastModifiedDate_dt>9/6/2017 4:31:11</lastModifiedDate_dt>
+</component>
