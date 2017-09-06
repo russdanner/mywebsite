@@ -16,7 +16,11 @@
 	<title>CryptoCash.com</title>
 	<hero_text>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text>
 	<hero_title>&lt;h1&gt;The source for cryptocurrency &amp;amp; blockchain updates&lt;/h1&gt;</hero_title>
-	<features>	<item>	<value>/site/components/page/4beca2f0-bc3e-4e14-360b-6aae21369362.xml</value>
+	<features>	<item>	<value>x</value>
+	<key>/site/components/8ece02ff-e056-bb29-8af7-18433ed79993.xml</key>
+	<include>/site/components/8ece02ff-e056-bb29-8af7-18433ed79993.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<value>/site/components/page/4beca2f0-bc3e-4e14-360b-6aae21369362.xml</value>
 	<key>/site/components/page/4beca2f0-bc3e-4e14-360b-6aae21369362.xml</key>
 	<include>/site/components/page/4beca2f0-bc3e-4e14-360b-6aae21369362.xml</include>
 	<disableFlattening>false</disableFlattening>
