@@ -11,11 +11,11 @@
 	<folder-name/>
 	<createdDate>1/31/2017 16:18:14</createdDate>
 	<createdDate_dt>1/31/2017 16:18:14</createdDate_dt>
-	<lastModifiedDate>9/5/2017 22:3:16</lastModifiedDate>
-	<lastModifiedDate_dt>9/5/2017 22:3:16</lastModifiedDate_dt>
+	<lastModifiedDate>9/6/2017 3:55:33</lastModifiedDate>
+	<lastModifiedDate_dt>9/6/2017 3:55:33</lastModifiedDate_dt>
 	<title>CryptoCash.com</title>
 	<hero_text>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text>
-	<hero_title>&lt;h1&gt;Your source for Cryptocurrency &amp;amp; Blockchain&lt;/h1&gt;</hero_title>
+	<hero_title>&lt;h1&gt;Your source for cryptocurrency &amp;amp; blockchain&lt;/h1&gt;</hero_title>
 	<features>	<item>	<value>Two</value>
 	<key>/site/components/features/quam-lorem-ipsum.xml</key>
 	<include>/site/components/features/quam-lorem-ipsum.xml</include>
@@ -27,6 +27,7 @@
 	</item>	<item>	<value>x</value>
 	<key>/site/components/8ece02ff-e056-bb29-8af7-18433ed79993.xml</key>
 	<include>/site/components/8ece02ff-e056-bb29-8af7-18433ed79993.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item></features>
 	<header/>
 	<hero_image>/static-assets/images/page/8d7f21fa-5e09-00aa-8340-853b7db302da//3coins.jpg</hero_image>
