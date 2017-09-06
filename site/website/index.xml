@@ -16,13 +16,13 @@
 	<title>CryptoCash.com</title>
 	<hero_text>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text>
 	<hero_title>&lt;h1&gt;Your source for cryptocurrency &amp;amp; blockchain&lt;/h1&gt;</hero_title>
-	<features>	<item>	<value>x</value>
-	<key>/site/components/8ece02ff-e056-bb29-8af7-18433ed79993.xml</key>
-	<include>/site/components/8ece02ff-e056-bb29-8af7-18433ed79993.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item>	<value>Two</value>
+	<features>	<item>	<value>Two</value>
 	<key>/site/components/features/quam-lorem-ipsum.xml</key>
 	<include>/site/components/features/quam-lorem-ipsum.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<value>x</value>
+	<key>/site/components/8ece02ff-e056-bb29-8af7-18433ed79993.xml</key>
+	<include>/site/components/8ece02ff-e056-bb29-8af7-18433ed79993.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item>	<item>	<key>/site/components/features/sapien-veroeros.xml</key>
 	<value>Three</value>
