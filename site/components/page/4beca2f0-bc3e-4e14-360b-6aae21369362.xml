@@ -9,10 +9,6 @@
 	<zone1>	<item>	<value>/site/components/page/c23f9d81-acdc-1012-bae2-e372c9298c84.xml</value>
 	<key>/site/components/page/c23f9d81-acdc-1012-bae2-e372c9298c84.xml</key>
 	<include>/site/components/page/c23f9d81-acdc-1012-bae2-e372c9298c84.xml</include>
-	</item>	<item>	<value>Two</value>
-	<key>/site/components/features/quam-lorem-ipsum.xml</key>
-	<include>/site/components/features/quam-lorem-ipsum.xml</include>
-	<disableFlattening>false</disableFlattening>
 	</item></zone1>
 	<zone2>	<item>	<value>x</value>
 	<key>/site/components/8ece02ff-e056-bb29-8af7-18433ed79993.xml</key>
