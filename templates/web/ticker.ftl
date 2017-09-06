@@ -6,7 +6,7 @@
     <canvas id="c" width="500" height="375"></canvas>
 
 [
-<#list datapoints as point>
+<#list dataPoints as point>
 	{point.date} -> ${point.value} <br/>
 </#list>
 ]
