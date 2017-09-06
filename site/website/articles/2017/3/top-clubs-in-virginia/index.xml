@@ -16,8 +16,8 @@
 	<author>John Doe</author>
 	<file-name>index.xml</file-name>
 	<folder-name>top-clubs-in-virginia</folder-name>
-	<categories>	<item>	<key>entertainment</key>
-	<value_smv>Entertainment</value_smv>
+	<categories>	<item>	<key>unvesting</key>
+	<value_smv>Investing</value_smv>
 	</item></categories>
 	<segments>	<item>	<key>guy</key>
 	<value_smv>Guy</value_smv>
@@ -31,6 +31,8 @@
 	<date_dt>03/05/2017 05:00:00</date_dt>
 	<createdDate>3/15/2017 0:3:41</createdDate>
 	<createdDate_dt>3/15/2017 0:3:41</createdDate_dt>
-	<lastModifiedDate>3/15/2017 0:3:41</lastModifiedDate>
-	<lastModifiedDate_dt>3/15/2017 0:3:41</lastModifiedDate_dt>
+	<lastModifiedDate>9/6/2017 4:2:56</lastModifiedDate>
+	<lastModifiedDate_dt>9/6/2017 4:2:56</lastModifiedDate_dt>
+	<disabled>false</disabled>
+	<left-rail/>
 </page>

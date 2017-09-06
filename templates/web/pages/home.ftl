@@ -96,5 +96,15 @@
 			<script src="/static-assets/js/main.js"></script>
 
 		<@studio.toolSupport/>
+        
+        <style>
+.col_half.col-md-4 {
+    min-width: 367px;
+    min-height: 100px;
+    max-width: 45%;
+    margin: 4px;
+}
+        </style>
+        
 	</body>
 </html>
