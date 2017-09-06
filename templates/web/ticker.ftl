@@ -1,7 +1,7 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 
 <div <@studio.componentAttr path=contentModel.storeUrl ice=true /> >
-    <canvas id="c" width="auto" height="175"></canvas>
+    <canvas id="c" width="100%" height="175"></canvas>
 
 
 
