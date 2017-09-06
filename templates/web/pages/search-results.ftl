@@ -37,20 +37,20 @@
                   <form id="categories">
                   	<div class="row uniform">
 											<div class="3u 6u(medium) 12u$(small)">
-												<input type="checkbox" id="style" name="style" value="style">
-												<label for="style">Style</label>
+												<input type="checkbox" id="bitcoin" name="bitcoin" value="bitcoin">
+												<label for="style">Bitcoin</label>
 											</div>
 											<div class="3u 6u$(medium) 12u$(small)">
-												<input type="checkbox" id="health" name="health" value="health">
-												<label for="health">Health</label>
+												<input type="checkbox" id="ethereum" name="ethereum" value="ethereum">
+												<label for="health">Ethereum</label>
 											</div>
 											<div class="3u 6u(medium) 12u$(small)">
-												<input type="checkbox" id="entertainment" name="entertainment" value="entertainment">
-												<label for="entertainment">Entertainment</label>
+												<input type="checkbox" id="blockchain" name="blockchain" value="blockchain">
+												<label for="entertainment">Blockchain</label>
 											</div>
 											<div class="3u 6u$(medium) 12u$(small)">
-												<input type="checkbox" id="technology" name="technology" value="technology">
-												<label for="technology">Technology</label>
+												<input type="checkbox" id="inesting" name="inesting" value="inesting">
+												<label for="technology">Investing</label>
 											</div>
 										</div>
                   </form>
