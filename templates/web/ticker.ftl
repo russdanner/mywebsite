@@ -56,13 +56,13 @@ if (document.getElementById('c')) {
     };
   })();
 
-  var roulette17 = (function() {
-    var winnings = 0;
-    return function() {
-      winnings += Math.random() < 1/36 ? 35 : -1;
-      return winnings;
-    };
-  })();
+//  var roulette17 = (function() {
+//    var winnings = 0;
+//    return function() {
+//      winnings += Math.random() < 1/36 ? 35 : -1;
+//      return winnings;
+//   };
+//  })();
 
   var lineGraph = function(o) {
     context.beginPath();
