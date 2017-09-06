@@ -52,14 +52,14 @@
   		  context.fillText("Day", 248, 42);
          context.fillText("Price", 28, 42);
   
-		var xContext = o.data[0].price;
+		var yContext = o.data[0].price;
 		context.moveTo(60, 0);
           
         for(var i = 0; i < o.data.length; i++) {
-          var yVal = 100+(i*10);
-          var xVal = ((o.data[i].price-xContext)/10);
+          var xVal = 100+(i*10);
+          var yVal = ((o.data[i].price-yContext)/10);
           
-          context.lineTo(yVal, xVal-10);
+          context.lineTo(xVal, yVal-100);
         }
         
         context.strokeStyle = o.color;
