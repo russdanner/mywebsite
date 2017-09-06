@@ -4,7 +4,7 @@
 	<h2>${contentModel.symbol}</h2>
 	<h1>${ticker.AskPrice}</h1>
     <canvas id="c" width="500" height="375"></canvas>
-${dataPoints}
+${dataPoints["2017-08-06"]}
 <script>
 if (document.getElementById('c')) {
 
