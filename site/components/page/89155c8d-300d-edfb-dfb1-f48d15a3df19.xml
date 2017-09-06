@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/ticker</content-type>	<display-template>/templates/web/ticker.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8915</objectGroupId>
+	<objectId>89155c8d-300d-edfb-dfb1-f48d15a3df19</objectId>
+	<file-name>89155c8d-300d-edfb-dfb1-f48d15a3df19.xml</file-name>
+	<internal-name>Bitocoin Ticker</internal-name>
+	<createdDate>9/6/2017 23:32:44</createdDate>
+	<createdDate_dt>9/6/2017 23:32:44</createdDate_dt>
+	<lastModifiedDate>9/6/2017 23:32:44</lastModifiedDate>
+	<lastModifiedDate_dt>9/6/2017 23:32:44</lastModifiedDate_dt>
+</component>

@@ -8,7 +8,7 @@
 			<name>display-template</name>
 			<label>Display Template</label>
 			<value>/templates/web/ticker.ftl</value>
-			<type>template</type>
+		 	<type>template</type>
 		</property>
 		<property>
 			<name>merge-strategy</name>
