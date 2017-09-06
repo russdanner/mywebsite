@@ -331,12 +331,12 @@
 					<properties>
 						<property>
 							<name>width</name>
-							<value>650</value>
+							<value>450</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>height</name>
-							<value>40</value>
+							<value>100</value>
 							<type>int</type>
 						</property>
 						<property>
