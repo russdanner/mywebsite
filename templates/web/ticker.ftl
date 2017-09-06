@@ -9,7 +9,7 @@
     var priceData = [];
     
     <#list dataPoints as point>
-        priceData.add({date: "${point.date}", price:${point.value}});
+        priceData.add({date: "${point.date}", price:${point.value?computer}});
     </#list>
     
     if (document.getElementById('c')) {
