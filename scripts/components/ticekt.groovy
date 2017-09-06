@@ -1,5 +1,5 @@
 
-def responseTxt = new URL("https://api.coindesk.com/v1/bpi/historical/close.json?start=2017-08-01&end=2017-09-15").text
+def responseTxt = new URL("https://api.coindesk.com/v1/bpi/historical/close.json").text
 
 def slurper = new groovy.json.JsonSlurper()
 
