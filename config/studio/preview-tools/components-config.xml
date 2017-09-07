@@ -58,11 +58,7 @@
             <type>/plugins/rss-feed/rss-feed</type>
             <path>/site/components/page</path>
         </component>
-        <component>
-            <label>Bitcoin Value History</label>
-            <type>/component/ticker</type>
-            <path>/site/components/page</path>
-        </component>
+
     </category>
 
     <category>
