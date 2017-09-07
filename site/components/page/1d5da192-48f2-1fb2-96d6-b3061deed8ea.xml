@@ -13,6 +13,9 @@
 	<zone2>	<item>	<value>ticker.xml</value>
 	<key>/site/components/page/ticker.xml</key>
 	<include>/site/components/page/ticker.xml</include>
+	</item>	<item>	<value>xx.xml</value>
+	<key>/site/components/page/xx.xml</key>
+	<include>/site/components/page/xx.xml</include>
 	</item>	<item>	<value>Notice</value>
 	<key>/site/components/features/notice.xml</key>
 	<include>/site/components/features/notice.xml</include>
