@@ -48,8 +48,8 @@ For every repository you need to specify:
                 <id>alfresco</id>
                 <type>alfresco</type>
                 <url>http://localhost:5050/alfresco/api/-default-/public/cmis/versions/1.1/atom/</url>
-                <username>guest</username>
-                <password>guest</password>
+                <username>admin</username>
+                <password>admin</password>
                 <base-path>/</base-path>
                 <download-url-regex>http://localhost:5050/alfresco/service/api/node/content/workspace/SpacesStore/{item_id}</download-url-regex>
             </repository>
