@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>	<display-template>/templates/web/pages/article.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>47e8</objectGroupId>
+	<objectId>47e8282d-9164-3655-c274-3f497a0c7291</objectId>
+	<sections>	<item>	<section_html>&lt;p&gt;x&lt;/p&gt;</section_html>
+	</item></sections>
+	<file-name>index.xml</file-name>
+	<folder-name>test</folder-name>
+	<internal-name>test</internal-name>
+	<title>test</title>
+	<subject>x</subject>
+	<author>x</author>
+	<disabled>false</disabled>
+	<featured_b>true</featured_b>
+	<header/>
+	<left-rail/>
+	<categories>	<item>	<key>blockchain</key>
+	<value_smv>Blockchain</value_smv>
+	</item></categories>
+	<segments>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item>	<item>	<key>gal</key>
+	<value_smv>Gal</value_smv>
+	</item></segments>
+	<summary>x</summary>
+	<image/>
+	<createdDate>9/7/2017 4:5:43</createdDate>
+	<createdDate_dt>9/7/2017 4:5:43</createdDate_dt>
+	<lastModifiedDate>9/7/2017 4:5:43</lastModifiedDate>
+	<lastModifiedDate_dt>9/7/2017 4:5:43</lastModifiedDate_dt>
+	<date_dt>09/07/2017 04:00:00</date_dt>
+</page>

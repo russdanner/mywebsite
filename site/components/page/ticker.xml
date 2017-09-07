@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/ticker</content-type>	<display-template>/templates/web/ticker.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2255</objectGroupId>
+	<objectId>2255714b-35c8-fae6-9188-9ff986009cf3</objectId>
+	<internal-name>Ticker</internal-name>
+	<file-name>ticker.xml</file-name>
+	<folder-name/>
+	<createdDate>9/7/2017 5:18:27</createdDate>
+	<createdDate_dt>9/7/2017 5:18:27</createdDate_dt>
+	<lastModifiedDate>9/7/2017 5:18:27</lastModifiedDate>
+	<lastModifiedDate_dt>9/7/2017 5:18:27</lastModifiedDate_dt>
+</component>
