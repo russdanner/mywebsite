@@ -11,26 +11,28 @@
 	</item>	<item>	<section_html>&lt;p&gt;&lt;span&gt;Sed sollicitudin accumsan ornare. Nunc lacinia elementum mi nec suscipit. Nam ullamcorper mattis risus, quis rutrum quam eleifend eget. Suspendisse ultricies enim ac ullamcorper blandit. Maecenas porttitor convallis mauris id ultrices. Nulla elit velit, congue vel ultrices id, tristique nec eros. Donec commodo est id erat luctus cursus. Cras a elementum diam. Nunc eros ex, sagittis sit amet congue a, efficitur non mi. Sed fringilla diam eu arcu vulputate, vitae viverra purus eleifend. Integer bibendum faucibus est, vitae semper velit vehicula nec. Proin fringilla interdum nisi non ultricies. Suspendisse fringilla lacus tellus, at tempus augue bibendum non. Nunc et purus semper, sollicitudin nisl at, suscipit leo. Curabitur scelerisque nulla a diam aliquam rutrum sit amet in dolor.&lt;/span&gt;&lt;/p&gt;</section_html>
 	</item></sections>
 	<file-name>index.xml</file-name>
-	<folder-name>10-tips-to-get-a-six-pack</folder-name>
-	<internal-name>10 Tips to Get a Six Pack</internal-name>
-	<title>10 Tips to Get a Six Pack</title>
-	<subject>10 Tips to Get a Six Pack</subject>
+	<folder-name>blockchain-explained</folder-name>
+	<internal-name>Blockchain Explained</internal-name>
+	<title>Blockchain Explained</title>
+	<subject>Blockchain Explained</subject>
 	<author>John Doe</author>
 	<header/>
-	<categories>	<item>	<key>blockchain</key>
+	<categories>	<item>	<key>investing</key>
+	<value_smv>Investing</value_smv>
+	</item>	<item>	<key>blockchain</key>
 	<value_smv>Blockchain</value_smv>
 	</item></categories>
-	<segments>	<item>	<key>guy</key>
-	<value_smv>Guy</value_smv>
+	<segments>	<item>	<key>investor</key>
+	<value_smv>Investor</value_smv>
 	</item></segments>
 	<date_dt>02/08/2017 05:00:00</date_dt>
 	<createdDate>3/2/2017 20:52:30</createdDate>
 	<createdDate_dt>3/2/2017 20:52:30</createdDate_dt>
-	<lastModifiedDate>9/6/2017 4:2:17</lastModifiedDate>
-	<lastModifiedDate_dt>9/6/2017 4:2:17</lastModifiedDate_dt>
+	<lastModifiedDate>9/7/2017 4:37:30</lastModifiedDate>
+	<lastModifiedDate_dt>9/7/2017 4:37:30</lastModifiedDate_dt>
 	<featured_b>true</featured_b>
 	<summary>Ut pellentesque nibh porta lacinia porta. Nam eleifend aliquam tellus sit amet sagittis. Maecenas id eros velit. Donec feugiat iaculis augue eu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </summary>
-	<image>/static-assets/images/six-pack-pic.jpg</image>
+	<image>/static-assets/images/page/d5824453-b743-4575-bb7a-5c49c0fbedbb//ledger.png</image>
 	<disabled>false</disabled>
 	<left-rail/>
 </page>

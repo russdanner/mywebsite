@@ -4,16 +4,18 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>8686</objectGroupId>
 	<objectId>868672ef-1b5e-7846-5c25-ac2929d2ff6e</objectId>
-	<items>	<item>	<key>guy</key>
-	<value>Guy</value>
-	</item>	<item>	<key>gal</key>
-	<value>Gal</value>
+	<items>	<item>	<key>bitcoin</key>
+	<value>Bitcoin</value>
+	</item>	<item>	<key>ethereum</key>
+	<value>Ethereum</value>
+	</item>	<item>	<key>investor</key>
+	<value>Investor</value>
 	</item></items>
 	<file-name>segments.xml</file-name>
 	<folder-name/>
 	<internal-name>Segments</internal-name>
 	<createdDate>5/12/2017 4:59:10</createdDate>
 	<createdDate_dt>5/12/2017 4:59:10</createdDate_dt>
-	<lastModifiedDate>5/12/2017 4:59:10</lastModifiedDate>
-	<lastModifiedDate_dt>5/12/2017 4:59:10</lastModifiedDate_dt>
+	<lastModifiedDate>9/7/2017 4:28:46</lastModifiedDate>
+	<lastModifiedDate_dt>9/7/2017 4:28:46</lastModifiedDate_dt>
 </component>

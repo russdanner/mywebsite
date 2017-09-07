@@ -11,25 +11,27 @@
 &lt;p&gt;Aenean consectetur lorem rutrum felis lacinia bibendum. Sed et elit in mi egestas pellentesque. Suspendisse vitae imperdiet ligula. Quisque sollicitudin, eros id aliquam bibendum, elit neque tincidunt orci, at vehicula lacus mauris eget erat. Nulla facilisi. Suspendisse potenti. Sed ultrices fringilla justo eget ultricies. Donec eu porttitor augue.&lt;/p&gt;</section_html>
 	</item></sections>
 	<file-name>index.xml</file-name>
-	<folder-name>5-popular-diets-for-women</folder-name>
+	<folder-name>bitcoin-cash-is-soaring</folder-name>
 	<header/>
 	<featured_b>true</featured_b>
-	<internal-name>5 Popular Diets for Women</internal-name>
-	<title>5 Popular Diets for Women</title>
-	<subject>Bitcoin is Soring</subject>
+	<internal-name>Bitcoin cash is Soaring</internal-name>
+	<title>Bitcoin cash is Soaring</title>
+	<subject>Bitcoin Cash is Soaring</subject>
 	<author>Jane Doe</author>
-	<categories>	<item>	<key>unvesting</key>
-	<value_smv>Investing</value_smv>
+	<categories>	<item>	<key>bitcoin</key>
+	<value_smv>Bitcoin</value_smv>
 	</item></categories>
-	<segments>	<item>	<key>gal</key>
-	<value_smv>Gal</value_smv>
+	<segments>	<item>	<key>bitcoin</key>
+	<value_smv>Bitcoin</value_smv>
+	</item>	<item>	<key>investor</key>
+	<value_smv>Investor</value_smv>
 	</item></segments>
 	<summary>Donec euismod et ligula quis porta. Vivamus lacinia tortor lectus, a dictum nisi efficitur consequat. Duis posuere aliquet massa, quis sollicitudin dolor fringilla nec.</summary>
-	<image>/static-assets/images/diets-women-pic.jpg</image>
+	<image>/static-assets/images/page/6121741f-8b6f-75ce-151b-75e57f04da13//bccs.png</image>
 	<createdDate>3/14/2017 23:41:13</createdDate>
 	<createdDate_dt>3/14/2017 23:41:13</createdDate_dt>
-	<lastModifiedDate>9/7/2017 4:21:48</lastModifiedDate>
-	<lastModifiedDate_dt>9/7/2017 4:21:48</lastModifiedDate_dt>
+	<lastModifiedDate>9/7/2017 4:29:31</lastModifiedDate>
+	<lastModifiedDate_dt>9/7/2017 4:29:31</lastModifiedDate_dt>
 	<date_dt>03/14/2017 04:00:00</date_dt>
 	<disabled>false</disabled>
 	<left-rail/>
