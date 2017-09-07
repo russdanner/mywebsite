@@ -60,7 +60,7 @@
 
 -->
 <permissions>
-  <site id="editorialcom">
+  <site id="mywebsite">
     <role name="author">
       <rule regex="/site/website/.*">
         <allowed-permissions>
