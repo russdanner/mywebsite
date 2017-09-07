@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/plugins/twitterfeed/twitterfeed</content-type>	<display-template>/templates/plugins/twitterfeed/twitterfeed.ftl</display-template>
+	<objectGroupId>e09b</objectGroupId>
+	<objectId>e09ba0ee-5fa4-c03d-96b4-a60673d1841d</objectId>
+	<file-name>e09ba0ee-5fa4-c03d-96b4-a60673d1841d.xml</file-name>
+	<feedId>coinbase</feedId>
+	<itemsPerPage_i>10</itemsPerPage_i>
+	<authentication>	<item>	<key>/site/components/keys/twitter/ddb0bb89-ca41-7e4a-6254-3f14aa5d50f7.xml</key>
+	<value>Twiiter</value>
+	<include>/site/components/keys/twitter/ddb0bb89-ca41-7e4a-6254-3f14aa5d50f7.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></authentication>
+	<createdDate>9/7/2017 4:57:3</createdDate>
+	<createdDate_dt>9/7/2017 4:57:3</createdDate_dt>
+	<lastModifiedDate>9/7/2017 4:57:3</lastModifiedDate>
+	<lastModifiedDate_dt>9/7/2017 4:57:3</lastModifiedDate_dt>
+</component>
