@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/feature</content-type>	<display-template>/templates/web/components/feature.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0373</objectGroupId>
+	<objectId>03735a60-47d0-366a-63ff-d74d2e10c3ae</objectId>
+	<file-name>notice.xml</file-name>
+	<folder-name/>
+	<internal-name>Notice</internal-name>
+	<title>Buy Now!</title>
+	<disabled>false</disabled>
+	<icon>fa-rocket</icon>
+	<body_html>&lt;p&gt;All currencies have surged since Monday!&lt;/p&gt;</body_html>
+	<createdDate>9/7/2017 4:57:45</createdDate>
+	<createdDate_dt>9/7/2017 4:57:45</createdDate_dt>
+	<lastModifiedDate>9/7/2017 4:57:45</lastModifiedDate>
+	<lastModifiedDate_dt>9/7/2017 4:57:45</lastModifiedDate_dt>
+</component>
