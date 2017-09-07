@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/ticker</content-type>	<display-template>/templates/web/ticker.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ab24</objectGroupId>
+	<objectId>ab244f26-63e4-a5a2-9327-6292bd954e01</objectId>
+	<file-name>ccc.xml</file-name>
+	<folder-name/>
+	<internal-name>ccc</internal-name>
+	<createdDate>9/7/2017 5:29:34</createdDate>
+	<createdDate_dt>9/7/2017 5:29:34</createdDate_dt>
+	<lastModifiedDate>9/7/2017 5:29:34</lastModifiedDate>
+	<lastModifiedDate_dt>9/7/2017 5:29:34</lastModifiedDate_dt>
+</component>
