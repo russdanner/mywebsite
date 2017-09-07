@@ -59,7 +59,11 @@
             <path>/site/components/page</path>
         </component>
 
-
+        <component>
+            <label>Ticker</label>
+            <type>/component/ticker</type>
+            <path>/site/components/page</path>
+        </component>
     </category>
 
     <category>

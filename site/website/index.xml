@@ -16,7 +16,10 @@
 	<title>CryptoCash.com</title>
 	<hero_text>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text>
 	<hero_title>&lt;h1&gt;Your source for cryptocurrency &amp;amp; blockchain updates!&lt;/h1&gt;</hero_title>
-	<features/>
+	<features>	<item>	<value>My Ticker</value>
+	<key>/site/components/page/05378dbb-0207-e3ef-5c70-3564bd8723c6.xml</key>
+	<include>/site/components/page/05378dbb-0207-e3ef-5c70-3564bd8723c6.xml</include>
+	</item></features>
 	<header/>
 	<hero_image>/static-assets/coinsight.jpg</hero_image>
 	<left-rail>	<item>	<key>/site/components/left-rails/left-rail-with-latest-articles.xml</key>
