@@ -11,7 +11,10 @@
 	<include>/site/components/page/e09ba0ee-5fa4-c03d-96b4-a60673d1841d.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></zone1>
-	<zone2>	<item>	<value>Notice</value>
+	<zone2>	<item>	<value>ccc</value>
+	<key>/site/components/page/ccc.xml</key>
+	<include>/site/components/page/ccc.xml</include>
+	</item>	<item>	<value>Notice</value>
 	<key>/site/components/features/notice.xml</key>
 	<include>/site/components/features/notice.xml</include>
 	<disableFlattening>false</disableFlattening>
