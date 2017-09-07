@@ -11,14 +11,14 @@
 	<folder-name/>
 	<createdDate>1/31/2017 16:18:14</createdDate>
 	<createdDate_dt>1/31/2017 16:18:14</createdDate_dt>
-	<lastModifiedDate>9/7/2017 17:23:14</lastModifiedDate>
-	<lastModifiedDate_dt>9/7/2017 17:23:14</lastModifiedDate_dt>
+	<lastModifiedDate>9/7/2017 17:24:5</lastModifiedDate>
+	<lastModifiedDate_dt>9/7/2017 17:24:5</lastModifiedDate_dt>
 	<title>CryptoCash.com</title>
 	<hero_text>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text>
 	<hero_title>&lt;h1&gt;Your source for cryptocurrency &amp;amp; blockchain updates&lt;/h1&gt;</hero_title>
 	<features/>
 	<header/>
-	<hero_image>/static-assets/becoins.jpeg</hero_image>
+	<hero_image>/static-assets/coinsight.jpg</hero_image>
 	<left-rail>	<item>	<key>/site/components/left-rails/left-rail-with-latest-articles.xml</key>
 	<value>Left Rail with Latest Articles</value>
 	<include>/site/components/left-rails/left-rail-with-latest-articles.xml</include>
