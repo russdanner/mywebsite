@@ -11,11 +11,7 @@
 	<include>/site/components/page/e09ba0ee-5fa4-c03d-96b4-a60673d1841d.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></zone1>
-	<zone2>	<item>	<value>Notice</value>
-	<key>/site/components/features/notice.xml</key>
-	<include>/site/components/features/notice.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item></zone2>
+	<zone2/>
 	<createdDate>9/7/2017 4:56:43</createdDate>
 	<createdDate_dt>9/7/2017 4:56:43</createdDate_dt>
 	<lastModifiedDate>9/7/2017 5:48:15</lastModifiedDate>
