@@ -9,16 +9,15 @@
 	<zone1>	<item>	<value>/site/components/page/e09ba0ee-5fa4-c03d-96b4-a60673d1841d.xml</value>
 	<key>/site/components/page/e09ba0ee-5fa4-c03d-96b4-a60673d1841d.xml</key>
 	<include>/site/components/page/e09ba0ee-5fa4-c03d-96b4-a60673d1841d.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item></zone1>
-	<zone2>	<item>	<value>ticker.xml</value>
-	<key>/site/components/page/ticker.xml</key>
-	<include>/site/components/page/ticker.xml</include>
-	</item>	<item>	<value>Notice</value>
+	<zone2>	<item>	<value>Notice</value>
 	<key>/site/components/features/notice.xml</key>
 	<include>/site/components/features/notice.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item></zone2>
 	<createdDate>9/7/2017 4:56:43</createdDate>
 	<createdDate_dt>9/7/2017 4:56:43</createdDate_dt>
-	<lastModifiedDate>9/7/2017 4:56:43</lastModifiedDate>
-	<lastModifiedDate_dt>9/7/2017 4:56:43</lastModifiedDate_dt>
+	<lastModifiedDate>9/7/2017 5:29:7</lastModifiedDate>
+	<lastModifiedDate_dt>9/7/2017 5:29:7</lastModifiedDate_dt>
 </component>
