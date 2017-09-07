@@ -11,7 +11,10 @@
 	<include>/site/components/page/e09ba0ee-5fa4-c03d-96b4-a60673d1841d.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></zone1>
-	<zone2>	<item>	<value>abc.xml</value>
+	<zone2>	<item>	<value>cccc</value>
+	<key>/site/components/page/cccc.xml</key>
+	<include>/site/components/page/cccc.xml</include>
+	</item>	<item>	<value>abc.xml</value>
 	<key>/site/components/page/abc.xml</key>
 	<include>/site/components/page/abc.xml</include>
 	</item>	<item>	<value>ticker.xml</value>
