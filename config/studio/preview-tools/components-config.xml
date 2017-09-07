@@ -59,11 +59,6 @@
             <path>/site/components/page</path>
         </component>
 
-        <component>
-            <label>Bitcoin Ticker</label>
-            <type>/component/ticker</type>
-            <path>/site/components/page</path>
-        </component>
 
     </category>
 

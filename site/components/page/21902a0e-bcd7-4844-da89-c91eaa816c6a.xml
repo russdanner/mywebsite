@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/ticker</content-type>	<display-template>/templates/web/ticker.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2190</objectGroupId>
+	<objectId>21902a0e-bcd7-4844-da89-c91eaa816c6a</objectId>
+	<internal-name>Crypto Ticker</internal-name>
+	<file-name>21902a0e-bcd7-4844-da89-c91eaa816c6a.xml</file-name>
+	<createdDate>9/7/2017 0:17:35</createdDate>
+	<createdDate_dt>9/7/2017 0:17:35</createdDate_dt>
+	<lastModifiedDate>9/7/2017 0:17:35</lastModifiedDate>
+	<lastModifiedDate_dt>9/7/2017 0:17:35</lastModifiedDate_dt>
+</component>
