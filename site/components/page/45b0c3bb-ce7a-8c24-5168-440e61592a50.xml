@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/plugins/twitterfeed/twitterfeed</content-type>	<display-template>/templates/plugins/twitterfeed/twitterfeed.ftl</display-template>
+	<objectGroupId>45b0</objectGroupId>
+	<objectId>45b0c3bb-ce7a-8c24-5168-440e61592a50</objectId>
+	<file-name>45b0c3bb-ce7a-8c24-5168-440e61592a50.xml</file-name>
+	<feedId>coindesk</feedId>
+	<itemsPerPage_i>10</itemsPerPage_i>
+	<authentication>	<item>	<key>/site/components/keys/twitter/ddb0bb89-ca41-7e4a-6254-3f14aa5d50f7.xml</key>
+	<value>Twiiter</value>
+	<include>/site/components/keys/twitter/ddb0bb89-ca41-7e4a-6254-3f14aa5d50f7.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></authentication>
+	<createdDate>9/7/2017 17:30:15</createdDate>
+	<createdDate_dt>9/7/2017 17:30:15</createdDate_dt>
+	<lastModifiedDate>9/7/2017 17:30:15</lastModifiedDate>
+	<lastModifiedDate_dt>9/7/2017 17:30:15</lastModifiedDate_dt>
+</component>
